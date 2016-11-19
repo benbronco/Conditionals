@@ -48,3 +48,5 @@ func makePurchase(amt: Double) {
 
 canPurchase(amount: game)
 makePurchase(amt: game)
+
+
